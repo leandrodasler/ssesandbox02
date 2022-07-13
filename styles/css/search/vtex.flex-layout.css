@@ -1,0 +1,23 @@
+.flexRow--orderByAndSwitcher {
+  padding-right: 1.5em;
+}
+
+.flexRowContent--savingsSummaryListDesktop {
+  justify-content: flex-start;
+}
+
+.flexCol--summaryRightListDesktop {
+  justify-content: space-around;
+}
+
+.flexCol--productRating {
+  margin-bottom: 3rem;
+}
+
+.flexCol--summaryDetailsListMobile {
+  justify-content: space-between;
+}
+
+.flexCol--summaryUpDetailsListMobile {
+  margin-bottom: 0.25rem
+}

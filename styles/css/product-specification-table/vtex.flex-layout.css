@@ -1,0 +1,15 @@
+.flexRow--productSpecificationGroup:not(:first-child) {
+  margin-top: 1.5rem;
+}
+
+.flexRow--productSpecificationGroupName {
+  padding: 0.5rem 1rem;
+}
+
+.flexCol--productSpecificationName {
+  padding: 1rem;
+}
+
+.flexCol--productSpecificationValue {
+  padding: 1rem 1rem 1rem 0;
+}

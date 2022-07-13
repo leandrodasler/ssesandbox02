@@ -1,0 +1,11 @@
+.galleryLayoutOptionButton {
+  padding: 0.375rem 0.75rem 0.375rem 0.75rem;
+}
+
+.galleryLayoutSwitcher {
+  border-radius: 4px 4px 4px 4px;
+  justify-content: center;
+  overflow: hidden;
+  width: auto !important;
+  align-self: center
+}
